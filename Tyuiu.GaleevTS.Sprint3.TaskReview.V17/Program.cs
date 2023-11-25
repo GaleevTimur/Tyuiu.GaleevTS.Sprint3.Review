@@ -12,7 +12,7 @@ namespace Tyuiu.GaleevTS.Sprint3.TaskReview.V17
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт №3 | Выполнил: Галеев Т. С. | ИИПб-23-3";
+            Console.Title =  "Спринт №3 | Выполнил: Галеев Т. С. | ИИПб-23-3";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #3                                                                *");
             Console.WriteLine("* Тема: Обработка целочисленной информации                                 *");
